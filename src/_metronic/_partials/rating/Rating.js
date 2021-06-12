@@ -124,7 +124,7 @@ export function  Rating({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -206,7 +206,7 @@ export function  Rating({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -287,7 +287,7 @@ export function  Rating({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -368,7 +368,7 @@ export function  Rating({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -449,7 +449,7 @@ export function  Rating({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>

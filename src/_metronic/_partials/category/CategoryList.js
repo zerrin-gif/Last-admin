@@ -105,12 +105,12 @@ export function CategoryList({ className }) {
 
                 <td className="pr-0 text-right">
                 <a href="#"
-                    className="btn btn-icon btn-light btn-hover-warning btn-sm mx-3"
+                    className="btn btn-icon btn-light btn-hover-warning btn-sm mx-4"
                   >
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -181,7 +181,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -249,7 +249,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -318,7 +318,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -387,7 +387,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -456,7 +456,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -525,7 +525,7 @@ export function CategoryList({ className }) {
     <span className="svg-icon svg-icon-md svg-icon-warning">
       <SVG
         src={toAbsoluteUrl(
-          "/media/svg/icons/Communication/Write.svg"
+          "/media/svg/icons/General/Visible.svg"
         )}
       ></SVG>
     </span>
@@ -593,7 +593,7 @@ export function CategoryList({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -661,7 +661,7 @@ export function CategoryList({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
@@ -729,7 +729,7 @@ export function CategoryList({ className }) {
                     <span className="svg-icon svg-icon-md svg-icon-warning">
                       <SVG
                         src={toAbsoluteUrl(
-                          "/media/svg/icons/Communication/Write.svg"
+                          "/media/svg/icons/General/Visible.svg"
                         )}
                       ></SVG>
                     </span>
